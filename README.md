@@ -24,6 +24,15 @@ The API will be available at `http://127.0.0.1:8000` by default.
 Interactive API documentation powered by Swagger UI is available at
 `http://127.0.0.1:8000/api/docs`.
 
+To view the Swagger UI:
+
+1. Ensure the server is running.
+2. Open your browser and navigate to `http://127.0.0.1:8000/api/docs`.
+3. Use the page to explore and test the API endpoints.
+
+The raw OpenAPI specification can be downloaded from
+`http://127.0.0.1:8000/api/v1/openapi.json`.
+
 ## API Specification
 
 | Method | URI                     | Description                           |
